@@ -1,0 +1,12 @@
+D:\c#\DangThiToMy_DoAn\baocao\bin\Debug\baocao.exe.config
+D:\c#\DangThiToMy_DoAn\baocao\bin\Debug\baocao.exe
+D:\c#\DangThiToMy_DoAn\baocao\bin\Debug\baocao.pdb
+D:\c#\DangThiToMy_DoAn\baocao\obj\Debug\baocao.csproj.AssemblyReference.cache
+D:\c#\DangThiToMy_DoAn\baocao\obj\Debug\baocao.Properties.Resources.resources
+D:\c#\DangThiToMy_DoAn\baocao\obj\Debug\baocao.csproj.GenerateResource.cache
+D:\c#\DangThiToMy_DoAn\baocao\obj\Debug\baocao.csproj.CoreCompileInputs.cache
+D:\c#\DangThiToMy_DoAn\baocao\obj\Debug\baocao.exe
+D:\c#\DangThiToMy_DoAn\baocao\obj\Debug\baocao.pdb
+D:\c#\DangThiToMy_DoAn\baocao\obj\Debug\baocao.Form1.resources
+D:\c#\DangThiToMy_DoAn\baocao\obj\Debug\baocao.LoginForm.resources
+D:\c#\DangThiToMy_DoAn\baocao\obj\Debug\baocao.HomePage.resources
